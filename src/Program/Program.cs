@@ -9,5 +9,12 @@ public class Substraction
     public static int Substract(int a, int b)
     {
         return a - b;
+
+// Esta clase implementa la operacion resta
+public class Addition
+{
+    public static int Add(int a, int b)
+    {
+        return a + b;
     }
 }
