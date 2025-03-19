@@ -1,4 +1,5 @@
 namespace Ucu.Poo.GitChallenge;
+// Esta clase implementa la operación division
 
 public class Division
 {
