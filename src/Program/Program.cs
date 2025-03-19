@@ -10,7 +10,7 @@ public class Substraction
     {
         return a - b;
 
-// Esta clase implementa la operacion resta
+// Esta clase implementa la operacion suma
 public class Addition
 {
     public static int Add(int a, int b)
