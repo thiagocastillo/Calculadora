@@ -1,6 +1,6 @@
 namespace Ucu.Poo.GitChallenge;
 
-//Esta clase implementa la operacion de Multipliacion
+//Esta clase implementa la operacion de Multipliacionm
 public class Multiplicacion
 {
     public class Multiplication
